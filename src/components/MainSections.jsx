@@ -683,7 +683,7 @@ export function MusicSection({ onItachiGlobalChange }) {
       {isItachiMode && (
         <>
           <video
-            className="absolute inset-0 h-full w-full object-cover"
+            className="absolute inset-0 h-full w-full object-contain md:object-cover"
             src="/itachi_video.mp4"
             autoPlay
             loop
