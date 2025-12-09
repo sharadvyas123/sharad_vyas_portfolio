@@ -329,7 +329,7 @@ export function SkillsShowcase() {
   const aiSkills = [
     { name: "Python", icon: "/skills/python.svg" },
     { name: "TensorFlow / Keras", icon: "/skills/tensorflow.svg" },
-    { name: "LangChain", icon: "/skills/langchain.png" },
+    { name: "LangChain", icon: "/skills/langchain.svg" },
     { name: "OpenAI / LLMs", icon: "/skills/openai.svg" },
     { name: "Docker", icon: "/skills/docker.svg" },
   ];
